@@ -3,7 +3,7 @@ A C++ tool that tunnels the UDP data in/out of Thetis and a Radio
 
 # Help
 
-ThetisTunnelC.exe --help
+```ThetisTunnelC.exe --help```
 
 At the remote (listen) site, you will need to portforward a TCPip port on the router/modem to the machine that
 runs this tool. The port is defined by the --tcpPort option.
