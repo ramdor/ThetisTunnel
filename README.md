@@ -12,7 +12,8 @@ runs this tool. The port is defined by the --tcpPort option.
 
 # Options
 
-```A TCP tunnel for Thetis UDP traffic.
+```
+A TCP tunnel for Thetis UDP traffic.
 Run one instance at the radio site (listen) and one at the Thetis site (connect).
 
 Usage:
@@ -72,5 +73,7 @@ Examples:
   ThetisTunnelC.exe --mode=connect --tcpHost=82.83.84.85 --tcpPort=5000 --udpBindIP=192.168.0.76 --key=abc123
 
 Quit:
-  Press Q to quit, or use Ctrl+C.```
+  Press Q to quit, or use Ctrl+C.
+```
+
   
