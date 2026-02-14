@@ -1,6 +1,8 @@
 # ThetisTunnel
 A C++ tool that tunnels the UDP data in/out of Thetis and a Radio
 
+A video on how it can be used with a 'remote' G2 : https://www.youtube.com/watch?v=v-leCQ6ULyQ
+
 ![ThetisTunnelC](ThetisTunnelC.png)
 
 # Help
